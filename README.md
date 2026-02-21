@@ -34,9 +34,10 @@ Identified low repeat customer rates, highlighting opportunities to improve rete
 
 ## 📊 Sales Performance Dashboard (Power BI)
 
-![Sales Dashboard 1](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/sales-dashboard-1.png)
+![Sales Dashboard 1](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/superstore sales dashboard 1.png)
 
 ![Sales Dashboard 2](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/sales-dashboard-2.png)
+
 ---
 
 ### 🧮 SQL Sales Analysis
