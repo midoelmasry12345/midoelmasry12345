@@ -9,7 +9,7 @@ Based in Egypt 🇪🇬
 # 🚀 Featured Projects
 
 ## 📊 Superstore Sales Dashboard (Excel)
-https://github.com/midoelmasry12345/midoelmasry12345/blob/main/superstore%20dashboard%20excel.png?raw=true
+![Superstore Dashboard](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/superstore%20dashboard%20excel.png)
 <img src="superstore.png" width="100%"/>
 
 ---
