@@ -16,9 +16,8 @@ Based in Egypt 🇪🇬
 
 ---
 
-## 🛒 Olist E-Commerce Analysis
-[View Repository](https://github.com/YOURUSERNAME/Olist-Analysis)
-
+## 🛒 Olist E-Commerce Analysis (Power Bi)
+https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/Brazilian-Ecommerce-Sales-Dashboard.png
 <img src="olist.png" width="100%"/>
 
 ---
