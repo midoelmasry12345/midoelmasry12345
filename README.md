@@ -28,6 +28,7 @@ Based in Egypt 🇪🇬
 <img src="rfm.png" width="100%"/>
 
 ---
+## Superstore Sales Dashboard (Power Bi)
 
 # 🛠 Tools & Technologies
 
