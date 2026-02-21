@@ -21,7 +21,7 @@ My focus is on real-world analytics projects involving sales performance, custom
 Built an interactive Excel dashboard analyzing sales, profit, and category performance.  
 Used pivot tables, slicers, and KPI cards to highlight trends and top-performing segments.
 
-![Superstore Dashboard](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/superstore.png)
+![Superstore Dashboard](https://raw.github.com/midoelmasry12345/midoelmasry12345/blob/main/superstore.png)
 
 ---
 
