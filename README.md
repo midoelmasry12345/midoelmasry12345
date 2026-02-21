@@ -24,7 +24,7 @@ Based in Egypt 🇪🇬
 
 ## SQL-Based Analysis of Product Sales
 ![Brazil Dashboard](https://github.com/midoelmasry12345/midoelmasry12345/blob/main/SQL1.png?raw=true)
-
+![Brazil Dashboard](https://github.com/midoelmasry12345/midoelmasry12345/blob/main/SQL2.png?raw=true)
 <img src="rfm.png" width="100%"/>
 
 ---
