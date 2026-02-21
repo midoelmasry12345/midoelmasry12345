@@ -1,38 +1,73 @@
-# Hi, I'm Mohamed Khalil 
+# Hi, I'm Mohammed Khalil 👋
 
-Aspiring Data Analyst | BI Developer  
+📊 Aspiring Data Analyst | BI Developer  
+Turning raw data into actionable business insights  
 Excel • SQL • Python • Power BI  
 Based in Egypt 🇪🇬  
 
 ---
 
-# Featured Projects
+## 🧠 About Me
+I am a data analyst passionate about transforming data into clear, actionable insights.  
+I specialize in building interactive dashboards, performing exploratory data analysis, and uncovering patterns that support better business decisions.
 
-## Superstore Sales Dashboard (Excel)
-![Superstore Dashboard](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/superstore%20dashboard%20excel.png)
-<img src="superstore.png" width="100%"/>
-
-
+My focus is on real-world analytics projects involving sales performance, customer behavior, and business intelligence.
 
 ---
 
-## Brazilian E-commerce Sales Dashboard (Power Bi)
-![Brazil Dashboard](https://github.com/midoelmasry12345/midoelmasry12345/blob/main/brazil-dashboard.png?raw=true)
-<img src="olist.png" width="100%"/>
+## 🚀 Featured Projects
+
+### 📊 Superstore Sales Dashboard (Excel)
+Built an interactive Excel dashboard analyzing sales, profit, and category performance.  
+Used pivot tables, slicers, and KPI cards to highlight trends and top-performing segments.
+
+![Superstore Dashboard](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/superstore.png)
 
 ---
 
-## SQL-Based Analysis of Product Sales
-![Brazil Dashboard](https://github.com/midoelmasry12345/midoelmasry12345/blob/main/SQL1.png?raw=true)
-![Brazil Dashboard](https://github.com/midoelmasry12345/midoelmasry12345/blob/main/SQL2.png?raw=true)
-<img src="rfm.png" width="100%"/>
+### 🇧🇷 Brazilian E-Commerce Analysis (Power BI)
+Analyzed the Olist Brazilian e-commerce dataset to uncover customer and sales insights.  
+Identified low repeat customer rates, highlighting opportunities to improve retention and lifetime value.
+
+![Brazil Dashboard](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/brazil-dashboard.png)
 
 ---
-## Sales Performance Dashboard (Power Bi)
-![Brazil Dashboard](https://github.com/midoelmasry12345/midoelmasry12345/blob/main/superstore%20sales%20dashboard%201.png?raw=true)
-![Brazil Dashboard](https://github.com/midoelmasry12345/midoelmasry12345/blob/main/superstore%20sales%20dashboard%202.png?raw=true)
-<img src="rfm.png" width="100%"/>
-# 🛠 Tools & Technologies
 
-Excel | SQL | Python (Pandas, Matplotlib) | Power BI | Git | GitHub  
+### 🛍️ RFM Customer Segmentation
+Performed RFM analysis to classify customers into high-value, loyal, and at-risk segments.  
+Provided insights to support targeted marketing and retention strategies.
 
+![RFM Analysis](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/rfm.png)
+
+---
+
+### 🧮 SQL Sales Analysis
+Conducted SQL-based analysis on product sales data to identify revenue drivers and trends.  
+Used joins, aggregations, and filtering to generate business insights from raw datasets.
+
+![SQL Analysis](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/SQL1.png)
+
+---
+
+## 🛠 Tools & Technologies
+- **Data Analysis:** Excel, SQL, Python (Pandas, Matplotlib)
+- **Visualization:** Power BI, Excel Dashboards
+- **Techniques:** Data Cleaning, EDA, RFM Analysis, KPI Tracking
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+---
+
+## 📈 Currently Improving
+- Advanced Power BI dashboard design  
+- Business storytelling with data  
+- Real-world case studies and portfolio projects  
+
+---
+
+## 🤝 Connect With Me
+- 💼 LinkedIn: (add your link)
+- 📧 Email: (optional)
+
+---
+
+⭐ If you like my work, feel free to explore my repositories and connect!
