@@ -33,12 +33,11 @@ Identified low repeat customer rates, highlighting opportunities to improve rete
 
 ---
 
-### 🛍️ RFM Customer Segmentation
-Performed RFM analysis to classify customers into high-value, loyal, and at-risk segments.  
-Provided insights to support targeted marketing and retention strategies.
+## 📊 Sales Performance Dashboard (Power BI)
 
-![RFM Analysis](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/rfm.png)
+![Sales Dashboard 1](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/sales-dashboard-1.png)
 
+![Sales Dashboard 2](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/sales-dashboard-2.png)
 ---
 
 ### 🧮 SQL Sales Analysis
