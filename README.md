@@ -30,8 +30,8 @@ Based in Egypt 🇪🇬
 ---
 ## Superstore Sales Dashboard (Power Bi)
 ![Brazil Dashboard](https://github.com/midoelmasry12345/midoelmasry12345/blob/main/superstore%20sales%20dashboard%201.png?raw=true)
-![Brazil Dashboard](https://github.com/midoelmasry12345/midoelmasry12345/blob/main/superstore%20sales%20dashboard%201.png?raw=true)
-
+![Brazil Dashboard](https://github.com/midoelmasry12345/midoelmasry12345/blob/main/superstore%20sales%20dashboard%202.png?raw=true)
+<img src="rfm.png" width="100%"/>
 # 🛠 Tools & Technologies
 
 Excel | SQL | Python (Pandas, Matplotlib) | Power BI | Git | GitHub  
