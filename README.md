@@ -8,7 +8,7 @@ Based in Egypt 🇪🇬
 
 # 🚀 Featured Projects
 
-## 📊 Superstore Sales Dashboard (Excel)
+## Superstore Sales Dashboard (Excel)
 ![Superstore Dashboard](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/superstore%20dashboard%20excel.png)
 <img src="superstore.png" width="100%"/>
 
@@ -22,7 +22,7 @@ Based in Egypt 🇪🇬
 
 ---
 
-## 📈 Online Retail RFM Analysis
+## SQL-Based Analysis of Product Sales
 [View Repository](https://github.com/YOURUSERNAME/RFM-Analysis)
 
 <img src="rfm.png" width="100%"/>
