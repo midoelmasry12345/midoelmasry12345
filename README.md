@@ -12,12 +12,7 @@ Based in Egypt 🇪🇬
 ![Superstore Dashboard](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/superstore%20dashboard%20excel.png)
 <img src="superstore.png" width="100%"/>
 
----
 
-## 🏬 Walmart Sales Analysis
-[View Repository](https://github.com/YOURUSERNAME/Walmart-Sales-Analysis)
-
-<img src="walmart.png" width="100%"/>
 
 ---
 
