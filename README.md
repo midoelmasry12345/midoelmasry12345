@@ -17,7 +17,7 @@ Based in Egypt 🇪🇬
 ---
 
 ## Brazilian E-commerce Sales Daashboard (Power Bi)
-![Brazil Dashboard](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/brazil-dashboard.png)
+![Brazil Dashboard](https://github.com/midoelmasry12345/midoelmasry12345/blob/main/brazil-dashboard.png?raw=true)
 <img src="olist.png" width="100%"/>
 
 ---
