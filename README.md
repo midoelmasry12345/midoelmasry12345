@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed Khalil 👋
+# Hi, I'm Mohamed Khalil 
 
 Aspiring Data Analyst | BI Developer  
 Excel • SQL • Python • Power BI  
