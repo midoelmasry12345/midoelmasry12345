@@ -1,12 +1,12 @@
 # Hi, I'm Mohammed Khalil 👋
 
-📊 Aspiring Data Analyst | BI Developer  
+Aspiring Data Analyst | BI Developer  
 Excel • SQL • Python • Power BI  
 Based in Egypt 🇪🇬  
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## Superstore Sales Dashboard (Excel)
 ![Superstore Dashboard](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/superstore%20dashboard%20excel.png)
