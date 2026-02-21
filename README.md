@@ -36,8 +36,6 @@ Identified low repeat customer rates, highlighting opportunities to improve rete
 
 ![Sales Dashboard 1](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/blob/main/sales-dashboard-2.png)
 
-![Sales Dashboard 2](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/sales-dashboard-1.png)
-
 ---
 
 ### 🧮 SQL Sales Analysis
