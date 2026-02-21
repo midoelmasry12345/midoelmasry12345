@@ -23,7 +23,7 @@ Based in Egypt 🇪🇬
 ---
 
 ## SQL-Based Analysis of Product Sales
-[View Repository](https://github.com/YOURUSERNAME/RFM-Analysis)
+![Brazil Dashboard](https://github.com/midoelmasry12345/midoelmasry12345/blob/main/SQL1.png?raw=true)
 
 <img src="rfm.png" width="100%"/>
 
