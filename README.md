@@ -26,7 +26,7 @@ Used pivot tables, slicers, and KPI cards to highlight trends and top-performing
 </p>
 ---
 
-### 🇧🇷 Brazilian E-Commerce Analysis (Power BI)
+### Brazilian E-Commerce (Olist) Analysis (Power BI)
 Analyzed the Olist Brazilian e-commerce dataset to uncover customer and sales insights.  
 Identified low repeat customer rates, highlighting opportunities to improve retention and lifetime value.
 <p align="center">
