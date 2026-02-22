@@ -65,8 +65,8 @@ Used joins, aggregations, and filtering to generate business insights from raw d
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (optional)
+- 💼 LinkedIn: (https://www.linkedin.com/in/mohamed-khalil-52a732340/)
+- 📧 Email: (Midoelmasry@Gmail.com)
 
 ---
 
