@@ -48,8 +48,12 @@ An actionable insight message is added to automatically trigger when profit drop
 ### 🧮 SQL Sales Analysis
 Conducted SQL-based analysis on product sales data to identify revenue drivers and trends.  
 Used joins, aggregations, and filtering to generate business insights from raw datasets.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/SQL1.png" width="48%" />
+  <img src="https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/SQL2.png" width="48%" />
+</p>
 
-![SQL Analysis](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/SQL1.png)
+e
 
 ---
 
