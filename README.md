@@ -20,8 +20,10 @@ My focus is on real-world analytics projects involving sales performance, custom
 ### 📊 Superstore Sales Dashboard (Excel)
 Built an interactive Excel dashboard analyzing sales, profit, and category performance.  
 Used pivot tables, slicers, and KPI cards to highlight trends and top-performing segments.
-
-![Superstore Dashboard](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/superstore.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/superstore.png" width="48%" />
+  <img src="https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/superstore2.png" width="48%" />
+</p>
 ---
 
 ### 🇧🇷 Brazilian E-Commerce Analysis (Power BI)
