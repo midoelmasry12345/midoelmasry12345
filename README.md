@@ -36,9 +36,10 @@ Identified low repeat customer rates, highlighting opportunities to improve rete
 A Power BI dashboard analyzing sales performance. It includes KPIs such as Total Sales, Total Profit, Quantity Sold, and product rankings. 
 An actionable insight message is added to automatically trigger when profit drops below 0 to quickly highlight loss-making products and support better decisions.
 
-![Sales Dashboard 1](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/sales-dashboard-1.png)
-
-![Sales Dashboard 2](https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/sales-dashboard-2.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/sales-dashboard-1.png" width="48%" />
+  <img src="https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/sales-dashboard-2.png" width="48%" />
+</p>
 ---
 
 ### 🧮 SQL Sales Analysis
