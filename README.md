@@ -1,17 +1,29 @@
-# Hi, I'm Mohammed Khalil 👋
+👋 Hi, I'm Mohammed Khalil
 
-📊 Aspiring Data Analyst | BI Developer  
-Turning raw data into actionable business insights  
-Excel • SQL • Python • Power BI  
-Based in Egypt 🇪🇬  
+🎯 Aspiring Data Analyst | BI Developer  
+I turn raw data into clear business insights using **Power BI, Excel, SQL, and Python**.
+
+I specialize in building **interactive dashboards and data-driven business stories** that help stakeholders make smarter decisions.
 
 ---
 
-## 🧠 About Me
-I am a data analyst passionate about transforming data into clear, actionable insights.  
-I specialize in building interactive dashboards, performing exploratory data analysis, and uncovering patterns that support better business decisions.
+## 🚀 What I Do
+- 📊 Build professional BI dashboards (Power BI & Excel)
+- 🔍 Analyze real-world datasets and extract actionable insights
+- 📈 Transform messy data into clear KPIs and trends
+- 🎯 Focus on business impact, not just visuals
 
-My focus is on real-world analytics projects involving sales performance, customer behavior, and business intelligence.
+---
+
+## 🧠 Core Skills
+**Data Analysis:**  
+Power BI • Excel • SQL • Python • Data Cleaning • EDA  
+
+**Business Intelligence:**  
+Dashboards • KPI Design • DAX • Data Modeling • Storytelling  
+
+**Tools:**  
+Power BI • Excel • Pandas • Matplotlib • Git • GitHub  
 
 ---
 
@@ -53,22 +65,20 @@ Used joins, aggregations, and filtering to generate business insights from raw d
   <img src="https://raw.githubusercontent.com/midoelmasry12345/midoelmasry12345/main/SQL2.png" width="48%" />
 </p>
 
-e
+---
+
+## 📈 What I'm Currently Learning
+- Advanced DAX & Data Modeling  
+- SQL for analytics  
+- Python for data automation  
+- End-to-end analytics projects  
 
 ---
 
-## 🛠 Tools & Technologies
-- **Data Analysis:** Excel, SQL, Python (Pandas, Matplotlib)
-- **Visualization:** Power BI, Excel Dashboards
-- **Techniques:** Data Cleaning, EDA, RFM Analysis, KPI Tracking
-- **Tools:** Git, GitHub, Jupyter Notebook
-
----
-
-## 📈 Currently Improving
-- Advanced Power BI dashboard design  
-- Business storytelling with data  
-- Real-world case studies and portfolio projects  
+## 🎯 Career Goals
+- Data Analyst Internship (BI / Analytics)
+- Freelance dashboard projects
+- Real-world analytics experience
 
 ---
 
